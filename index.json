@@ -178,5 +178,30 @@
   "id": "ribbon",
   "name": "リボン",
   "file": "swimsuit_ribbon.png"
+ },
+ {
+  "id": "micro_gold",
+  "name": "マイクロ ゴールド",
+  "file": "swimsuit_micro_gold.png"
+ },
+ {
+  "id": "micro_white",
+  "name": "マイクロ ホワイト",
+  "file": "swimsuit_micro_white.png"
+ },
+ {
+  "id": "micro_black",
+  "name": "マイクロ ブラック",
+  "file": "swimsuit_micro_black.png"
+ },
+ {
+  "id": "micro_white_gold",
+  "name": "マイクロ 白×金",
+  "file": "swimsuit_micro_white_gold.png"
+ },
+ {
+  "id": "micro_black_gold",
+  "name": "マイクロ 黒×金",
+  "file": "swimsuit_micro_black_gold.png"
  }
 ]
