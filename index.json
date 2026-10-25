@@ -228,5 +228,40 @@
   "id": "micro_black_gold_skin",
   "name": "マイクロ 黒×金（肌ぬり）",
   "file": "swimsuit_micro_black_gold_skin.png"
+ },
+ {
+  "id": "flora",
+  "name": "フラワー（元の色）",
+  "file": "swimsuit_flora.png"
+ },
+ {
+  "id": "flora_green",
+  "name": "フラワー 緑",
+  "file": "swimsuit_flora_green.png"
+ },
+ {
+  "id": "flora_blue",
+  "name": "フラワー 青",
+  "file": "swimsuit_flora_blue.png"
+ },
+ {
+  "id": "flora_yellow",
+  "name": "フラワー 黄",
+  "file": "swimsuit_flora_yellow.png"
+ },
+ {
+  "id": "flora_purple",
+  "name": "フラワー 紫",
+  "file": "swimsuit_flora_purple.png"
+ },
+ {
+  "id": "flora_black",
+  "name": "フラワー 黒",
+  "file": "swimsuit_flora_black.png"
+ },
+ {
+  "id": "flora_white",
+  "name": "フラワー 白",
+  "file": "swimsuit_flora_white.png"
  }
 ]
