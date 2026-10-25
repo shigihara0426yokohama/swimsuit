@@ -203,5 +203,30 @@
   "id": "micro_black_gold",
   "name": "マイクロ 黒×金",
   "file": "swimsuit_micro_black_gold.png"
+ },
+ {
+  "id": "micro_gold_skin",
+  "name": "マイクロ ゴールド（肌ぬり）",
+  "file": "swimsuit_micro_gold_skin.png"
+ },
+ {
+  "id": "micro_white_skin",
+  "name": "マイクロ ホワイト（肌ぬり）",
+  "file": "swimsuit_micro_white_skin.png"
+ },
+ {
+  "id": "micro_black_skin",
+  "name": "マイクロ ブラック（肌ぬり）",
+  "file": "swimsuit_micro_black_skin.png"
+ },
+ {
+  "id": "micro_white_gold_skin",
+  "name": "マイクロ 白×金（肌ぬり）",
+  "file": "swimsuit_micro_white_gold_skin.png"
+ },
+ {
+  "id": "micro_black_gold_skin",
+  "name": "マイクロ 黒×金（肌ぬり）",
+  "file": "swimsuit_micro_black_gold_skin.png"
  }
 ]
