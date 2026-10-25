@@ -1,202 +1,102 @@
 [
  {
-  "id": "monstera",
-  "name": "モンステラ",
-  "file": "overlays/swimsuit_monstera.png"
+  "id": "white",
+  "name": "ホワイト",
+  "file": "swimsuit_white.png"
  },
  {
-  "id": "marble_gold",
-  "name": "大理石×金",
-  "file": "overlays/swimsuit_marble_gold.png"
+  "id": "black_gold",
+  "name": "ブラック×ゴールド",
+  "file": "swimsuit_black_gold.png"
  },
  {
-  "id": "tiedye",
-  "name": "タイダイ",
-  "file": "overlays/swimsuit_tiedye.png"
+  "id": "navy_dots",
+  "name": "ネイビー水玉",
+  "file": "swimsuit_navy_dots.png"
  },
  {
-  "id": "retro_wave",
-  "name": "レトロウェーブ",
-  "file": "overlays/swimsuit_retro_wave.png"
- },
- {
-  "id": "zebra",
-  "name": "ゼブラ",
-  "file": "overlays/swimsuit_zebra.png"
- },
- {
-  "id": "python",
-  "name": "パイソン",
-  "file": "overlays/swimsuit_python.png"
- },
- {
-  "id": "holographic",
-  "name": "ホログラム",
-  "file": "overlays/swimsuit_holographic.png"
- },
- {
-  "id": "ombre_sunset",
-  "name": "サンセット",
-  "file": "overlays/swimsuit_ombre_sunset.png"
- },
- {
-  "id": "watercolor_floral",
-  "name": "水彩フラワー",
-  "file": "overlays/swimsuit_watercolor_floral.png"
- },
- {
-  "id": "crochet",
-  "name": "クロシェ編み",
-  "file": "overlays/swimsuit_crochet.png"
- },
- {
-  "id": "chain_gold",
-  "name": "黒×金チェーン",
-  "file": "overlays/swimsuit_chain_gold.png"
- },
- {
-  "id": "houndstooth",
-  "name": "千鳥格子",
-  "file": "overlays/swimsuit_houndstooth.png"
- },
- {
-  "id": "black",
-  "name": "ブラック",
-  "file": "overlays/swimsuit_black.png"
- },
- {
-  "id": "navy",
-  "name": "ネイビー",
-  "file": "overlays/swimsuit_navy.png"
- },
- {
-  "id": "red",
-  "name": "レッド",
-  "file": "overlays/swimsuit_red.png"
- },
- {
-  "id": "hotpink",
-  "name": "ホットピンク",
-  "file": "overlays/swimsuit_hotpink.png"
- },
- {
-  "id": "stripe_blue",
-  "name": "青白ボーダー",
-  "file": "overlays/swimsuit_stripe_blue.png"
- },
- {
-  "id": "dots_pink",
+  "id": "pink_dots",
   "name": "ピンク水玉",
-  "file": "overlays/swimsuit_dots_pink.png"
+  "file": "swimsuit_pink_dots.png"
  },
  {
   "id": "gingham_red",
   "name": "赤ギンガム",
-  "file": "overlays/swimsuit_gingham_red.png"
+  "file": "swimsuit_gingham_red.png"
  },
  {
   "id": "gingham_mint",
   "name": "ミントギンガム",
-  "file": "overlays/swimsuit_gingham_mint.png"
+  "file": "swimsuit_gingham_mint.png"
+ },
+ {
+  "id": "marine",
+  "name": "マリンボーダー",
+  "file": "swimsuit_marine.png"
  },
  {
   "id": "leopard",
-  "name": "レオパード",
-  "file": "overlays/swimsuit_leopard.png"
+  "name": "ヒョウ柄",
+  "file": "swimsuit_leopard.png"
  },
  {
-  "id": "hibiscus_red",
-  "name": "赤地ハイビスカス",
-  "file": "overlays/swimsuit_hibiscus_red.png"
+  "id": "zebra",
+  "name": "ゼブラ",
+  "file": "swimsuit_zebra.png"
  },
  {
-  "id": "navy_whitetrim",
-  "name": "ネイビー×白ふち",
-  "file": "overlays/swimsuit_navy_whitetrim.png"
- },
- {
-  "id": "white_goldtrim",
-  "name": "白×金ふち",
-  "file": "overlays/swimsuit_white_goldtrim.png"
- },
- {
-  "id": "black_redtrim",
-  "name": "黒×赤ふち",
-  "file": "overlays/swimsuit_black_redtrim.png"
- },
- {
-  "id": "twotone_bw",
-  "name": "ツートン黒白",
-  "file": "overlays/swimsuit_twotone_bw.png"
- },
- {
-  "id": "twotone_pinkmint",
-  "name": "ピンク×ミント",
-  "file": "overlays/swimsuit_twotone_pinkmint.png"
- },
- {
-  "id": "camo",
-  "name": "迷彩",
-  "file": "overlays/swimsuit_camo.png"
- },
- {
-  "id": "denim",
-  "name": "デニム",
-  "file": "overlays/swimsuit_denim.png"
- },
- {
-  "id": "marine_redtrim",
-  "name": "マリン",
-  "file": "overlays/swimsuit_marine_redtrim.png"
- },
- {
-  "id": "cherry",
-  "name": "さくらんぼ",
-  "file": "overlays/swimsuit_cherry.png"
+  "id": "hibiscus",
+  "name": "ハイビスカス",
+  "file": "swimsuit_hibiscus.png"
  },
  {
   "id": "lemon",
   "name": "レモン",
-  "file": "overlays/swimsuit_lemon.png"
+  "file": "swimsuit_lemon.png"
  },
  {
-  "id": "hearts_lavender",
-  "name": "ハート",
-  "file": "overlays/swimsuit_hearts_lavender.png"
+  "id": "cherry",
+  "name": "さくらんぼ",
+  "file": "swimsuit_cherry.png"
  },
  {
-  "id": "gold_metal",
-  "name": "メタリックゴールド",
-  "file": "overlays/swimsuit_gold_metal.png"
+  "id": "sunset",
+  "name": "サンセット",
+  "file": "swimsuit_sunset.png"
  },
  {
-  "id": "silver_metal",
-  "name": "メタリックシルバー",
-  "file": "overlays/swimsuit_silver_metal.png"
+  "id": "tiedye",
+  "name": "タイダイ",
+  "file": "swimsuit_tiedye.png"
  },
  {
-  "id": "neon_lime",
-  "name": "ネオンライム",
-  "file": "overlays/swimsuit_neon_lime.png"
+  "id": "gold",
+  "name": "ゴールド",
+  "file": "swimsuit_gold.png"
  },
  {
-  "id": "flowers_black",
-  "name": "黒地の小花",
-  "file": "overlays/swimsuit_flowers_black.png"
+  "id": "holo",
+  "name": "ホログラム",
+  "file": "swimsuit_holo.png"
  },
  {
-  "id": "glitter_pink",
-  "name": "ピンクのラメ",
-  "file": "overlays/swimsuit_glitter_pink.png"
+  "id": "camo",
+  "name": "迷彩",
+  "file": "swimsuit_camo.png"
  },
  {
-  "id": "rainbow_pastel",
-  "name": "パステルレインボー",
-  "file": "overlays/swimsuit_rainbow_pastel.png"
+  "id": "houndstooth",
+  "name": "千鳥格子",
+  "file": "swimsuit_houndstooth.png"
  },
  {
-  "id": "paisley",
-  "name": "ペイズリー",
-  "file": "overlays/swimsuit_paisley.png"
+  "id": "hearts",
+  "name": "ハート ラベンダー",
+  "file": "swimsuit_hearts.png"
+ },
+ {
+  "id": "stars",
+  "name": "スター ネイビー",
+  "file": "swimsuit_stars.png"
  }
 ]
