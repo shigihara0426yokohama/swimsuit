@@ -98,5 +98,85 @@
   "id": "stars",
   "name": "スター ネイビー",
   "file": "swimsuit_stars.png"
+ },
+ {
+  "id": "aqua_border",
+  "name": "水色ボーダー太",
+  "file": "swimsuit_aqua_border.png"
+ },
+ {
+  "id": "aqua_stripe",
+  "name": "水色ストライプ太",
+  "file": "swimsuit_aqua_stripe.png"
+ },
+ {
+  "id": "red",
+  "name": "レッド",
+  "file": "swimsuit_red.png"
+ },
+ {
+  "id": "wine_lace",
+  "name": "ワインレッド レース",
+  "file": "swimsuit_wine_lace.png"
+ },
+ {
+  "id": "purple",
+  "name": "パープル",
+  "file": "swimsuit_purple.png"
+ },
+ {
+  "id": "lavender_ombre",
+  "name": "ラベンダーグラデ",
+  "file": "swimsuit_lavender_ombre.png"
+ },
+ {
+  "id": "purple_flower",
+  "name": "紫の花柄",
+  "file": "swimsuit_purple_flower.png"
+ },
+ {
+  "id": "sheer_black",
+  "name": "シースルー ブラック",
+  "file": "swimsuit_sheer_black.png"
+ },
+ {
+  "id": "sheer_white",
+  "name": "シースルー ホワイトレース",
+  "file": "swimsuit_sheer_white.png"
+ },
+ {
+  "id": "sheer_pink",
+  "name": "シースルー ピンク",
+  "file": "swimsuit_sheer_pink.png"
+ },
+ {
+  "id": "baby_pink",
+  "name": "ベビーピンク",
+  "file": "swimsuit_baby_pink.png"
+ },
+ {
+  "id": "pink_stripe",
+  "name": "ピンク×白ストライプ",
+  "file": "swimsuit_pink_stripe.png"
+ },
+ {
+  "id": "nude_beige",
+  "name": "ヌーディーベージュ",
+  "file": "swimsuit_nude_beige.png"
+ },
+ {
+  "id": "pale_mint",
+  "name": "ペールミント",
+  "file": "swimsuit_pale_mint.png"
+ },
+ {
+  "id": "strawberry",
+  "name": "いちご",
+  "file": "swimsuit_strawberry.png"
+ },
+ {
+  "id": "ribbon",
+  "name": "リボン",
+  "file": "swimsuit_ribbon.png"
  }
 ]
