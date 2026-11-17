@@ -263,5 +263,220 @@
   "id": "flora_white",
   "name": "フラワー 白",
   "file": "swimsuit_flora_white.png"
+ },
+ {
+  "id": "pink_baby",
+  "name": "ベビーピンク",
+  "file": "swimsuit_pink_baby.png"
+ },
+ {
+  "id": "pink_sakura",
+  "name": "さくらピンク",
+  "file": "swimsuit_pink_sakura.png"
+ },
+ {
+  "id": "pink_coral",
+  "name": "コーラルピンク",
+  "file": "swimsuit_pink_coral.png"
+ },
+ {
+  "id": "pink_fuchsia",
+  "name": "フューシャ",
+  "file": "swimsuit_pink_fuchsia.png"
+ },
+ {
+  "id": "pink_dusty",
+  "name": "くすみピンク",
+  "file": "swimsuit_pink_dusty.png"
+ },
+ {
+  "id": "pink_neon",
+  "name": "ネオンピンク",
+  "file": "swimsuit_pink_neon.png"
+ },
+ {
+  "id": "pink_satin",
+  "name": "ピンクサテン",
+  "file": "swimsuit_pink_satin.png"
+ },
+ {
+  "id": "pink_gold_metal",
+  "name": "ピンクゴールド",
+  "file": "swimsuit_pink_gold_metal.png"
+ },
+ {
+  "id": "pink_glitter_light",
+  "name": "ベビーピンクのラメ",
+  "file": "swimsuit_pink_glitter_light.png"
+ },
+ {
+  "id": "pink_gingham",
+  "name": "ピンクギンガム",
+  "file": "swimsuit_pink_gingham.png"
+ },
+ {
+  "id": "pink_dots_white",
+  "name": "白地にピンク水玉",
+  "file": "swimsuit_pink_dots_white.png"
+ },
+ {
+  "id": "pink_dots_black",
+  "name": "黒地にピンク水玉",
+  "file": "swimsuit_pink_dots_black.png"
+ },
+ {
+  "id": "pink_hearts",
+  "name": "ピンク地に白ハート",
+  "file": "swimsuit_pink_hearts.png"
+ },
+ {
+  "id": "pink_leopard",
+  "name": "ピンクヒョウ柄",
+  "file": "swimsuit_pink_leopard.png"
+ },
+ {
+  "id": "pink_camo",
+  "name": "ピンク迷彩",
+  "file": "swimsuit_pink_camo.png"
+ },
+ {
+  "id": "pink_flowers",
+  "name": "白地にピンクの小花",
+  "file": "swimsuit_pink_flowers.png"
+ },
+ {
+  "id": "pink_hibiscus",
+  "name": "ピンク地ハイビスカス",
+  "file": "swimsuit_pink_hibiscus.png"
+ },
+ {
+  "id": "pink_ombre",
+  "name": "ピンクグラデーション",
+  "file": "swimsuit_pink_ombre.png"
+ },
+ {
+  "id": "pink_twotone_white",
+  "name": "ピンク×白ツートン",
+  "file": "swimsuit_pink_twotone_white.png"
+ },
+ {
+  "id": "pink_twotone_black",
+  "name": "ピンク×黒ツートン",
+  "file": "swimsuit_pink_twotone_black.png"
+ },
+ {
+  "id": "pink_whitetrim",
+  "name": "ピンク×白ふち",
+  "file": "swimsuit_pink_whitetrim.png"
+ },
+ {
+  "id": "pink_blacktrim",
+  "name": "ピンク×黒ふち",
+  "file": "swimsuit_pink_blacktrim.png"
+ },
+ {
+  "id": "black_pinktrim",
+  "name": "黒×ピンクふち",
+  "file": "swimsuit_black_pinktrim.png"
+ },
+ {
+  "id": "lace_black",
+  "name": "黒レース",
+  "file": "swimsuit_lace_black.png"
+ },
+ {
+  "id": "lace_white",
+  "name": "白レース",
+  "file": "swimsuit_lace_white.png"
+ },
+ {
+  "id": "lace_pink",
+  "name": "ピンクレース",
+  "file": "swimsuit_lace_pink.png"
+ },
+ {
+  "id": "lace_sheer_black",
+  "name": "黒の透けレース",
+  "file": "swimsuit_lace_sheer_black.png"
+ },
+ {
+  "id": "lace_sheer_white",
+  "name": "白の透けレース",
+  "file": "swimsuit_lace_sheer_white.png"
+ },
+ {
+  "id": "lace_sheer_pink",
+  "name": "ピンクの透けレース",
+  "file": "swimsuit_lace_sheer_pink.png"
+ },
+ {
+  "id": "lace_sheer_red",
+  "name": "赤の透けレース",
+  "file": "swimsuit_lace_sheer_red.png"
+ },
+ {
+  "id": "lace_sheer_lavender",
+  "name": "ラベンダーの透けレース",
+  "file": "swimsuit_lace_sheer_lavender.png"
+ },
+ {
+  "id": "lacetrim_black",
+  "name": "黒×レースふち",
+  "file": "swimsuit_lacetrim_black.png"
+ },
+ {
+  "id": "lacetrim_white_pink",
+  "name": "白×ピンクのレースふち",
+  "file": "swimsuit_lacetrim_white_pink.png"
+ },
+ {
+  "id": "lacetrim_pink_white",
+  "name": "ピンク×白のレースふち",
+  "file": "swimsuit_lacetrim_pink_white.png"
+ },
+ {
+  "id": "lingerie_black",
+  "name": "黒ランジェリー風",
+  "file": "swimsuit_lingerie_black.png"
+ },
+ {
+  "id": "lingerie_wine",
+  "name": "ワインレッドのランジェリー風",
+  "file": "swimsuit_lingerie_wine.png"
+ },
+ {
+  "id": "lingerie_babyblue",
+  "name": "水色ランジェリー風",
+  "file": "swimsuit_lingerie_babyblue.png"
+ },
+ {
+  "id": "frill_white",
+  "name": "白フリル",
+  "file": "swimsuit_frill_white.png"
+ },
+ {
+  "id": "frill_pink",
+  "name": "ピンクフリル",
+  "file": "swimsuit_frill_pink.png"
+ },
+ {
+  "id": "frill_black",
+  "name": "黒フリル",
+  "file": "swimsuit_frill_black.png"
+ },
+ {
+  "id": "frill_mint",
+  "name": "ミントフリル",
+  "file": "swimsuit_frill_mint.png"
+ },
+ {
+  "id": "eyelet_white",
+  "name": "白のアイレットレース",
+  "file": "swimsuit_eyelet_white.png"
+ },
+ {
+  "id": "eyelet_pink",
+  "name": "ピンクのアイレットレース",
+  "file": "swimsuit_eyelet_pink.png"
  }
 ]
